@@ -1,0 +1,1260 @@
+Age,Gender,self_employed,family_history,remote_work,tech_company,benefits,care_options,seek_help,obs_consequence,treatment
+37.0,Female,Unknown,No,No,Yes,Yes,Not sure,Yes,No,Yes
+44.0,Male,Unknown,No,No,No,Don't know,No,Don't know,No,No
+32.0,Male,Unknown,No,No,Yes,No,No,No,No,No
+31.0,Male,Unknown,Yes,No,Yes,No,Yes,No,Yes,Yes
+31.0,Male,Unknown,No,Yes,Yes,Yes,No,Don't know,No,No
+33.0,Male,Unknown,Yes,No,Yes,Yes,Not sure,Don't know,No,No
+35.0,Female,Unknown,Yes,Yes,Yes,No,No,No,No,Yes
+39.0,Male,Unknown,No,Yes,Yes,No,Yes,No,No,No
+42.0,Female,Unknown,Yes,No,Yes,Yes,Yes,No,No,Yes
+23.0,Male,Unknown,No,No,Yes,Don't know,No,Don't know,No,No
+31.0,Male,Unknown,No,Yes,Yes,Don't know,No,No,No,Yes
+29.0,Male,Unknown,No,Yes,Yes,Don't know,Not sure,No,No,No
+42.0,Female,Unknown,Yes,No,No,Yes,Yes,No,Yes,Yes
+36.0,Male,Unknown,Yes,No,Yes,Don't know,Not sure,Don't know,No,No
+27.0,Male,Unknown,No,No,Yes,Don't know,Not sure,Don't know,No,No
+29.0,Female,Unknown,Yes,No,Yes,Yes,Not sure,No,No,Yes
+23.0,Male,Unknown,No,Yes,Yes,Don't know,No,Don't know,No,Yes
+32.0,Male,Unknown,No,No,Yes,Yes,Yes,Don't know,No,Yes
+46.0,Male,Yes,Yes,Yes,Yes,Yes,Not sure,Don't know,Yes,No
+36.0,Male,Yes,Yes,Yes,Yes,No,No,No,No,No
+29.0,Male,No,Yes,No,Yes,Yes,Yes,No,No,Yes
+31.0,Male,Yes,No,Yes,Yes,No,No,No,No,No
+46.0,Male,No,No,Yes,Yes,Yes,Yes,No,No,Yes
+41.0,Male,No,No,No,No,Don't know,No,Don't know,No,Yes
+33.0,Male,No,Yes,No,Yes,Yes,Not sure,Yes,No,Yes
+35.0,Male,No,Yes,No,No,Yes,Yes,Don't know,No,Yes
+33.0,Male,No,No,No,Yes,Don't know,Not sure,Don't know,No,No
+35.0,Female,No,Yes,Yes,Yes,Yes,Yes,Don't know,No,Yes
+34.0,Male,No,No,Yes,Yes,Don't know,Not sure,Don't know,No,Yes
+37.0,Male,No,No,No,Yes,No,No,No,No,No
+32.0,Male,No,No,Yes,Yes,No,No,No,No,No
+31.0,Male,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No
+30.0,Male,No,Yes,Yes,Yes,Don't know,No,No,No,Yes
+42.0,Male,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+40.0,Female,No,No,No,Yes,Yes,Yes,No,No,Yes
+27.0,Male,No,No,No,Yes,No,Yes,No,No,Yes
+29.0,Male,No,No,No,Yes,No,No,No,No,No
+38.0,Male,No,No,No,Yes,No,Yes,No,No,No
+50.0,Male,No,No,No,Yes,Yes,Yes,Don't know,No,No
+35.0,Male,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes
+24.0,Male,No,No,No,Yes,No,No,No,Yes,Yes
+35.0,Male,No,No,Yes,Yes,Yes,Not sure,Yes,No,No
+27.0,Male,No,Yes,No,Yes,No,Yes,No,No,Yes
+18.0,Male,No,No,No,Yes,No,Not sure,No,No,No
+30.0,Male,No,No,No,Yes,Don't know,No,No,No,Yes
+38.0,Female,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes
+28.0,Male,No,No,No,Yes,Don't know,Not sure,No,No,No
+34.0,Male,No,No,No,Yes,No,No,No,No,No
+26.0,Male,Yes,No,No,Yes,No,Yes,No,No,No
+30.0,Male,No,Yes,No,Yes,Yes,No,Don't know,No,Yes
+22.0,Male,No,Yes,No,Yes,No,Yes,No,No,Yes
+33.0,Male,No,No,Yes,Yes,Don't know,Not sure,Don't know,No,No
+31.0,Male,No,No,Yes,Yes,Don't know,No,Don't know,No,No
+32.0,Male,No,No,Yes,Yes,Don't know,Not sure,No,No,No
+28.0,Male,No,No,No,Yes,No,No,No,No,No
+27.0,Male,No,Yes,No,Yes,Yes,Yes,No,No,Yes
+32.0,Male,No,Yes,Yes,Yes,Don't know,No,No,No,No
+24.0,Male,No,Yes,Yes,Yes,Don't know,No,No,No,Yes
+26.0,Male,No,No,No,No,No,No,No,No,No
+33.0,Male,No,Yes,Yes,Yes,Don't know,No,No,No,Yes
+44.0,Male,No,Yes,No,No,Yes,No,Don't know,Yes,Yes
+26.0,Female,No,No,Yes,Yes,Don't know,Not sure,Yes,No,Yes
+27.0,Male,No,No,No,Yes,Yes,Not sure,Yes,No,No
+26.0,Male,No,No,No,Yes,No,No,No,Yes,No
+35.0,Male,No,No,No,Yes,Don't know,No,No,No,No
+40.0,Male,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+23.0,Female,No,Yes,Yes,Yes,No,Not sure,No,No,Yes
+36.0,Male,No,No,Yes,Yes,Yes,No,Yes,No,No
+31.0,Female,No,No,Yes,No,Don't know,No,Don't know,No,No
+34.0,Male,Yes,No,Yes,Yes,No,No,No,No,No
+28.0,Male,No,No,No,Yes,No,No,No,No,No
+34.0,Male,No,No,No,Yes,Don't know,Not sure,Don't know,No,No
+23.0,Female,No,No,No,Yes,Yes,Yes,No,No,No
+38.0,Male,No,No,No,Yes,No,No,Don't know,No,No
+33.0,Male,No,No,No,Yes,Don't know,Not sure,Don't know,No,No
+19.0,Male,No,No,No,Yes,No,Yes,No,No,No
+25.0,Male,No,No,Yes,Yes,Yes,Yes,Yes,No,No
+31.0,Male,Yes,Yes,Yes,Yes,No,No,No,No,No
+32.0,Male,No,Yes,Yes,Yes,No,No,No,No,Yes
+28.0,Male,No,No,Yes,Yes,Don't know,No,Don't know,No,No
+38.0,Male,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+23.0,Male,No,No,No,Yes,Yes,Not sure,Don't know,No,No
+30.0,Male,No,No,No,No,No,No,No,No,No
+27.0,Female,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes
+33.0,Male,No,Yes,No,Yes,No,No,No,No,No
+31.0,Male,No,No,No,Yes,Don't know,Not sure,No,No,No
+39.0,Male,Yes,No,No,Yes,No,No,No,Yes,Yes
+34.0,Female,No,Yes,Yes,Yes,Yes,Not sure,Don't know,No,Yes
+29.0,Female,No,No,No,Yes,Yes,Yes,No,Yes,Yes
+32.0,Male,No,No,No,Yes,Don't know,No,Don't know,No,No
+31.0,Male,No,No,No,Yes,Yes,Yes,Yes,No,No
+40.0,Male,No,No,No,Yes,No,Yes,No,No,Yes
+34.0,Male,No,No,No,Yes,Don't know,No,No,No,No
+18.0,Other,No,No,Yes,Yes,Yes,Yes,No,No,No
+25.0,Female,No,No,No,Yes,Yes,Yes,Don't know,No,Yes
+29.0,Male,No,No,No,Yes,Don't know,No,Don't know,No,No
+24.0,Male,No,Yes,No,Yes,Don't know,Not sure,Don't know,No,No
+31.0,Male,No,Yes,No,Yes,Don't know,No,No,No,Yes
+33.0,Male,No,No,No,Yes,No,Yes,No,No,Yes
+30.0,Male,No,No,No,Yes,No,Yes,No,No,Yes
+26.0,Female,No,Yes,No,No,No,Yes,No,Yes,Yes
+44.0,Female,No,No,No,Yes,Yes,Not sure,Don't know,No,No
+25.0,Male,No,Yes,No,Yes,Don't know,No,Don't know,No,No
+33.0,Male,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+29.0,Male,No,No,No,Yes,Yes,Not sure,Don't know,No,No
+35.0,Male,No,Yes,No,Yes,Yes,Not sure,No,No,No
+35.0,Male,No,Yes,Yes,Yes,Don't know,Not sure,No,No,Yes
+28.0,Male,No,Yes,No,Yes,No,No,No,Yes,Yes
+34.0,Male,No,Yes,Yes,Yes,Yes,No,No,No,No
+32.0,Male,No,No,No,Yes,Yes,No,Yes,No,Yes
+22.0,Male,No,No,No,Yes,Yes,Yes,Don't know,No,Yes
+28.0,Male,No,No,No,Yes,Yes,Yes,Yes,No,Yes
+45.0,Male,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+32.0,Male,No,No,No,Yes,Yes,Yes,Don't know,No,No
+28.0,Male,No,No,No,Yes,Don't know,No,Don't know,No,No
+26.0,Male,No,No,No,Yes,Don't know,No,Don't know,Yes,No
+21.0,Male,Yes,No,Yes,No,No,Yes,No,No,No
+27.0,Male,No,No,No,No,Yes,Yes,Yes,No,No
+18.0,Male,No,No,Yes,Yes,No,No,No,No,Yes
+35.0,Male,No,No,Yes,Yes,Don't know,Not sure,Don't know,No,No
+29.0,Male,No,No,No,Yes,Yes,Yes,Yes,No,No
+25.0,Male,No,No,Yes,Yes,Don't know,No,No,No,No
+33.0,Male,No,Yes,Yes,Yes,Don't know,No,Don't know,No,Yes
+36.0,Male,No,No,No,Yes,Yes,No,No,No,No
+27.0,Male,No,No,No,No,Yes,Not sure,No,Yes,Yes
+27.0,Male,No,Yes,No,Yes,Yes,No,Yes,No,No
+27.0,Male,No,No,No,Yes,No,No,No,No,No
+32.0,Male,No,No,No,Yes,Yes,Yes,Yes,No,Yes
+31.0,Male,No,Yes,No,Yes,No,No,No,No,No
+19.0,Male,No,No,No,Yes,Don't know,No,No,No,Yes
+33.0,Male,No,Yes,No,Yes,Yes,Yes,No,No,Yes
+32.0,Male,No,No,Yes,Yes,No,Yes,No,No,No
+27.0,Male,No,No,No,Yes,Don't know,Not sure,Don't know,No,No
+38.0,Male,No,No,Yes,Yes,No,Yes,No,No,No
+24.0,Male,No,No,No,Yes,Don't know,No,No,No,Yes
+39.0,Male,No,No,No,No,No,No,No,No,No
+28.0,Male,No,No,No,Yes,Don't know,No,No,No,No
+39.0,Male,No,No,No,Yes,Yes,Not sure,No,No,Yes
+29.0,Female,No,No,No,Yes,Don't know,No,Don't know,No,No
+22.0,Male,No,No,Yes,Yes,Don't know,No,No,No,No
+38.0,Male,No,Yes,No,Yes,Don't know,No,Don't know,No,Yes
+37.0,Male,Yes,No,No,No,No,Yes,Yes,No,Yes
+35.0,Male,No,No,Yes,No,Don't know,Not sure,Don't know,No,No
+,Male,No,No,Yes,No,Yes,No,Yes,No,No
+30.0,Female,No,Yes,Yes,Yes,Don't know,Not sure,Don't know,No,No
+37.0,Male,No,Yes,No,No,Yes,Yes,Yes,No,Yes
+24.0,Male,No,No,No,Yes,No,No,No,No,No
+23.0,Male,No,No,No,No,No,No,No,No,No
+30.0,Male,No,No,No,Yes,No,Yes,Yes,Yes,Yes
+29.0,Female,No,No,Yes,Yes,Don't know,Not sure,Don't know,No,No
+19.0,Male,Yes,Yes,Yes,Yes,Don't know,Not sure,Yes,No,No
+32.0,Male,No,Yes,No,Yes,Don't know,Not sure,No,No,No
+28.0,Male,No,No,Yes,Yes,No,No,No,No,No
+36.0,Male,No,No,No,Yes,Don't know,Not sure,Don't know,No,No
+37.0,Male,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes
+25.0,Male,No,Yes,No,No,Don't know,No,Don't know,No,Yes
+27.0,Male,No,Yes,No,Yes,Don't know,No,Don't know,No,Yes
+26.0,Male,No,No,No,No,Don't know,Not sure,No,No,No
+27.0,Male,No,No,Yes,Yes,No,Yes,No,Yes,Yes
+25.0,Male,No,Yes,No,Yes,Don't know,Not sure,No,Yes,Yes
+36.0,Male,No,No,No,No,Yes,Yes,Yes,Yes,Yes
+25.0,Female,No,Yes,No,Yes,Yes,No,No,No,Yes
+31.0,Male,No,No,No,Yes,Yes,No,Yes,No,No
+26.0,Male,No,Yes,No,Yes,Don't know,No,No,No,No
+33.0,Female,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes
+27.0,Female,Yes,Yes,Yes,Yes,No,Yes,No,No,No
+34.0,Male,No,No,No,Yes,No,No,No,No,No
+42.0,Male,No,No,No,Yes,No,Yes,No,No,No
+23.0,Male,Yes,Yes,No,Yes,No,No,No,No,No
+24.0,Male,No,No,No,Yes,Don't know,Not sure,Don't know,No,No
+26.0,Male,No,No,No,Yes,Yes,Yes,Don't know,No,Yes
+31.0,Male,Yes,No,No,Yes,Don't know,No,No,No,Yes
+22.0,Male,No,No,No,Yes,Don't know,Not sure,No,No,Yes
+23.0,Female,No,No,No,Yes,Don't know,No,Don't know,No,No
+34.0,Female,No,Yes,No,No,Yes,Yes,No,No,Yes
+31.0,Male,No,No,No,Yes,Don't know,Not sure,Don't know,No,No
+28.0,Male,No,No,No,No,No,Not sure,Yes,No,No
+32.0,Female,No,No,Yes,Yes,Yes,Not sure,Don't know,Yes,Yes
+45.0,Female,No,No,No,Yes,Yes,No,No,No,Yes
+33.0,Male,No,No,Yes,Yes,Don't know,No,No,No,No
+29.0,Male,No,No,Yes,Yes,No,No,No,No,No
+26.0,Female,Yes,No,No,No,No,No,No,No,No
+28.0,Female,No,No,No,Yes,Don't know,No,Don't know,No,No
+45.0,Male,No,No,No,Yes,Don't know,Not sure,Don't know,No,Yes
+43.0,Male,No,Yes,Yes,Yes,Yes,Not sure,Don't know,No,Yes
+37.0,Male,No,No,Yes,Yes,Yes,No,No,No,No
+24.0,Male,No,No,No,Yes,Don't know,No,Don't know,No,No
+26.0,Male,No,No,Yes,Yes,No,Yes,No,No,No
+23.0,Male,No,Yes,Yes,Yes,Don't know,No,No,No,No
+35.0,Female,No,Yes,No,Yes,Yes,Not sure,No,No,Yes
+38.0,Female,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes
+28.0,Male,No,Yes,No,Yes,Yes,No,No,No,Yes
+28.0,Male,No,No,No,Yes,No,No,No,No,No
+35.0,Male,No,No,No,Yes,No,No,No,No,Yes
+32.0,Female,No,No,No,Yes,No,No,No,Yes,No
+31.0,Male,Yes,Yes,No,Yes,No,No,No,No,No
+35.0,Female,No,No,Yes,Yes,Don't know,Not sure,No,No,No
+26.0,Male,No,No,No,Yes,Yes,No,No,No,No
+27.0,Male,No,Yes,Yes,Yes,Yes,Yes,No,No,No
+28.0,Male,No,Yes,No,Yes,Don't know,No,No,No,Yes
+27.0,Female,No,Yes,No,Yes,Yes,No,No,No,Yes
+34.0,Female,No,No,No,No,Yes,Yes,Yes,No,Yes
+41.0,Male,No,No,Yes,Yes,No,Not sure,No,No,Yes
+37.0,Male,No,No,No,Yes,No,Yes,No,No,No
+34.0,Male,No,Yes,Yes,Yes,Don't know,No,Don't know,No,No
+32.0,Male,No,Yes,Yes,Yes,Don't know,Not sure,No,Yes,Yes
+21.0,Male,No,No,Yes,Yes,No,Yes,No,No,Yes
+30.0,Male,No,No,No,Yes,No,Yes,No,No,Yes
+24.0,Male,No,No,No,Yes,Don't know,Not sure,Don't know,No,No
+26.0,Male,No,No,No,Yes,No,No,No,No,No
+40.0,Female,No,No,No,Yes,Yes,Yes,Yes,No,No
+37.0,Male,No,Yes,No,No,No,No,No,No,No
+26.0,Male,Yes,No,Yes,Yes,No,No,No,No,Yes
+32.0,Female,No,Yes,No,Yes,Don't know,No,No,Yes,Yes
+32.0,Female,No,No,No,No,Yes,Yes,Don't know,No,Yes
+27.0,Female,Yes,Yes,Yes,Yes,No,No,Don't know,No,Yes
+30.0,Male,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes
+31.0,Male,Yes,No,No,Yes,Yes,Yes,Don't know,No,No
+29.0,Female,No,No,No,No,Yes,No,Don't know,No,Yes
+41.0,Male,No,No,No,Yes,Yes,Not sure,No,No,No
+34.0,Female,No,No,No,Yes,Yes,No,No,No,No
+33.0,Male,No,No,No,Yes,Don't know,No,No,No,No
+28.0,Male,No,No,No,Yes,Don't know,No,No,No,No
+28.0,Male,No,No,No,Yes,No,Yes,No,No,Yes
+23.0,Male,No,No,No,Yes,Don't know,Not sure,Don't know,No,No
+24.0,Male,No,No,No,Yes,Don't know,No,No,No,No
+32.0,Male,No,No,Yes,Yes,No,Yes,No,No,No
+34.0,Male,Yes,No,Yes,Yes,Don't know,Not sure,Yes,No,No
+24.0,Male,No,No,No,Yes,Yes,Not sure,Don't know,No,No
+26.0,Male,Yes,No,No,Yes,No,Yes,No,No,Yes
+36.0,Male,No,No,No,Yes,Yes,No,Yes,Yes,Yes
+41.0,Male,No,No,Yes,Yes,Yes,Yes,Don't know,No,Yes
+38.0,Male,No,No,No,No,Don't know,Not sure,Don't know,No,Yes
+38.0,Male,No,No,Yes,Yes,Don't know,Not sure,Don't know,No,No
+30.0,Male,No,No,No,Yes,Don't know,No,Don't know,No,No
+25.0,Male,No,No,No,Yes,No,No,No,No,No
+37.0,Male,No,Yes,No,Yes,Yes,Yes,Don't know,No,Yes
+34.0,Male,No,Yes,No,Yes,No,No,No,Yes,No
+37.0,Female,No,Yes,No,No,Yes,Yes,Yes,No,Yes
+28.0,Female,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes
+22.0,Male,No,No,No,Yes,Don't know,No,No,No,No
+34.0,Male,No,Yes,No,Yes,No,No,No,Yes,Yes
+33.0,Male,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes
+25.0,Male,No,No,No,Yes,No,No,No,No,No
+27.0,Male,No,No,Yes,Yes,Yes,Yes,Don't know,No,No
+40.0,Male,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+21.0,Male,No,No,No,No,Don't know,No,Don't know,No,Yes
+29.0,Male,No,No,No,No,No,No,No,No,No
+32.0,Male,No,Yes,Yes,Yes,No,No,No,No,Yes
+29.0,Female,No,Yes,Yes,No,Yes,Yes,Don't know,No,Yes
+23.0,Male,No,Yes,Yes,No,Don't know,No,Don't know,No,Yes
+28.0,Male,No,Yes,No,Yes,Yes,No,Don't know,Yes,No
+31.0,Male,No,Yes,Yes,Yes,Yes,Yes,Don't know,No,Yes
+27.0,Male,No,No,No,No,Don't know,Not sure,Don't know,No,No
+24.0,Male,No,No,No,Yes,Don't know,No,Don't know,No,No
+29.0,Male,No,No,No,Yes,No,No,No,No,No
+23.0,Female,No,No,No,Yes,Don't know,Not sure,Don't know,No,Yes
+42.0,Male,No,No,Yes,Yes,No,Yes,Yes,No,No
+24.0,Male,No,No,No,Yes,No,No,No,No,No
+25.0,Male,No,Yes,No,Yes,No,Yes,No,Yes,Yes
+27.0,Female,No,No,No,Yes,Yes,No,No,No,Yes
+27.0,Male,No,No,Yes,Yes,No,Yes,No,No,No
+30.0,Male,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes
+29.0,Male,No,Yes,No,Yes,No,Yes,No,No,Yes
+43.0,Male,Yes,No,Yes,Yes,No,Not sure,No,No,No
+32.0,Male,No,No,No,Yes,No,Yes,Don't know,No,No
+41.0,Male,No,No,Yes,Yes,Yes,Yes,No,No,Yes
+32.0,Male,Yes,Yes,Yes,Yes,Don't know,Not sure,Don't know,Yes,Yes
+37.0,Female,No,Yes,No,Yes,Yes,Yes,No,No,Yes
+32.0,Male,No,No,Yes,Yes,No,No,No,No,No
+30.0,Male,Yes,No,Yes,Yes,No,No,No,No,No
+23.0,Female,No,Yes,No,No,Yes,No,Don't know,No,Yes
+30.0,Male,No,No,No,Yes,Yes,Yes,Yes,No,No
+34.0,Male,No,No,No,Yes,No,Yes,No,No,No
+38.0,Male,No,No,Yes,Yes,Yes,No,No,No,Yes
+33.0,Male,No,No,No,Yes,Yes,No,Yes,No,No
+34.0,Male,No,No,No,No,Yes,No,No,No,No
+28.0,Male,No,No,No,Yes,No,Yes,No,No,No
+28.0,Male,No,No,No,No,Yes,Yes,Don't know,No,Yes
+23.0,Male,No,Yes,No,Yes,Don't know,No,Don't know,No,No
+22.0,Male,Yes,Yes,Yes,Yes,Don't know,Not sure,Yes,Yes,Yes
+27.0,Male,No,No,No,Yes,No,No,No,No,No
+18.0,Male,No,No,No,Yes,Don't know,No,Don't know,No,Yes
+35.0,Male,No,Yes,No,Yes,Yes,Yes,No,No,Yes
+25.0,Male,No,No,No,No,Don't know,Not sure,No,No,No
+27.0,Male,No,Yes,No,Yes,No,No,No,No,Yes
+26.0,Female,No,Yes,No,Yes,Yes,Not sure,Don't know,No,Yes
+18.0,Male,No,No,No,Yes,Don't know,Not sure,Don't know,No,No
+38.0,Female,No,No,No,Yes,No,Yes,No,Yes,Yes
+26.0,Female,No,Yes,Yes,Yes,Yes,Yes,Don't know,No,Yes
+30.0,Male,Yes,No,No,Yes,No,No,No,No,No
+35.0,Male,No,No,No,Yes,Don't know,No,Don't know,No,No
+45.0,Male,No,Yes,No,Yes,Yes,Yes,Don't know,No,Yes
+32.0,Male,No,No,No,Yes,Yes,No,Don't know,No,No
+56.0,Male,No,No,No,Yes,Yes,Not sure,Don't know,No,Yes
+24.0,Female,No,No,No,Yes,Don't know,Not sure,Don't know,No,No
+30.0,Female,No,Yes,No,Yes,Yes,Yes,Don't know,No,Yes
+60.0,Male,No,No,No,Yes,Yes,No,Yes,No,No
+33.0,Male,No,Yes,No,Yes,Yes,No,Yes,No,Yes
+37.0,Male,No,No,No,Yes,Yes,Yes,Yes,No,No
+23.0,Female,No,No,No,Yes,Yes,Yes,Yes,No,Yes
+31.0,Female,No,No,No,Yes,Yes,Not sure,Don't know,No,Yes
+26.0,Male,No,No,No,Yes,Yes,Not sure,Don't know,No,No
+28.0,Female,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes
+37.0,Female,No,No,No,Yes,Yes,Yes,Yes,No,Yes
+26.0,Male,No,Yes,No,Yes,Yes,No,Don't know,No,Yes
+30.0,Other,No,Yes,No,Yes,Yes,Not sure,No,No,Yes
+26.0,Male,No,No,No,Yes,No,No,No,Yes,No
+25.0,Male,No,No,Yes,Yes,Don't know,Not sure,Don't know,No,No
+27.0,Male,No,No,No,Yes,Yes,Not sure,Yes,No,No
+25.0,Male,No,No,Yes,No,Don't know,No,Don't know,No,Yes
+35.0,Male,No,No,No,Yes,Yes,Not sure,Yes,No,Yes
+36.0,Male,Yes,No,No,Yes,No,Yes,No,No,Yes
+26.0,Male,No,Yes,No,Yes,Yes,Not sure,Don't know,No,Yes
+27.0,Male,No,Yes,No,Yes,Don't know,No,Don't know,No,No
+30.0,Male,No,No,No,No,Don't know,Not sure,Don't know,No,No
+29.0,Male,No,No,No,No,Don't know,Not sure,Don't know,No,No
+25.0,Male,No,No,No,No,Yes,Yes,Yes,No,No
+22.0,Female,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes
+29.0,Male,No,No,No,Yes,No,Yes,No,No,No
+41.0,Male,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+29.0,Male,No,No,No,Yes,Yes,No,Don't know,No,Yes
+32.0,Male,No,No,No,Yes,Yes,Not sure,Yes,No,No
+24.0,Female,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes
+25.0,Male,No,No,No,Yes,Yes,No,No,No,Yes
+25.0,Male,No,No,No,Yes,Don't know,Not sure,Don't know,No,No
+30.0,Female,No,No,No,Yes,Yes,Yes,Yes,No,No
+25.0,Male,No,Yes,No,Yes,Don't know,Not sure,Yes,No,Yes
+30.0,Male,Yes,No,Yes,Yes,No,Yes,No,No,No
+33.0,Male,Yes,Yes,No,No,No,No,No,Yes,Yes
+24.0,Male,No,No,No,Yes,Yes,Not sure,Yes,No,No
+25.0,Male,No,Yes,No,Yes,Yes,Yes,Don't know,No,Yes
+31.0,Male,No,No,No,No,Don't know,No,No,No,No
+45.0,Male,Yes,No,No,Yes,No,No,No,No,Yes
+29.0,Male,No,No,Yes,No,No,Yes,No,No,No
+46.0,Male,No,No,No,Yes,Yes,Not sure,Don't know,No,No
+30.0,Male,No,No,No,Yes,Don't know,No,Don't know,No,Yes
+29.0,Female,Yes,No,No,Yes,Yes,Not sure,No,No,No
+24.0,Male,No,No,No,Yes,Yes,Yes,Don't know,No,No
+29.0,Male,No,No,No,Yes,Yes,Yes,Yes,No,No
+35.0,Male,No,No,No,No,Don't know,Not sure,Don't know,No,No
+33.0,Female,No,Yes,Yes,Yes,No,Yes,No,No,No
+27.0,Male,No,No,No,Yes,Don't know,Not sure,Don't know,No,No
+36.0,Male,No,No,No,Yes,Don't know,Not sure,Don't know,No,No
+33.0,Male,No,No,Yes,Yes,Don't know,No,No,No,No
+25.0,Female,No,Yes,No,Yes,Yes,Yes,No,No,Yes
+23.0,Male,No,Yes,No,No,Don't know,No,No,No,Yes
+54.0,Male,No,Yes,No,Yes,Don't know,No,Yes,No,Yes
+22.0,Male,No,No,No,Yes,Don't know,No,Don't know,No,No
+25.0,Other,No,Yes,No,Yes,Yes,Yes,Don't know,No,Yes
+29.0,Male,No,No,No,No,Don't know,No,No,No,No
+27.0,Male,No,No,No,Yes,Yes,Yes,Yes,No,Yes
+30.0,Male,No,No,No,Yes,No,No,Don't know,No,No
+26.0,Male,No,Yes,No,Yes,Yes,Not sure,Yes,No,Yes
+25.0,Female,No,Yes,No,Yes,Yes,Yes,No,No,No
+31.0,Male,No,No,No,No,No,Yes,Don't know,No,Yes
+33.0,Male,No,Yes,No,Yes,Don't know,Not sure,No,No,Yes
+34.0,Male,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes
+34.0,Male,No,No,Yes,Yes,No,No,No,No,Yes
+29.0,Male,Yes,No,Yes,Yes,No,Yes,No,No,No
+33.0,Female,No,No,No,Yes,No,No,No,No,No
+34.0,Male,Yes,Yes,Yes,Yes,No,No,Don't know,No,Yes
+26.0,Male,Yes,Yes,Yes,No,No,No,Don't know,No,Yes
+32.0,Male,No,Yes,No,No,Yes,Yes,Yes,No,Yes
+,Male,No,No,Yes,Yes,Yes,Yes,No,No,Yes
+28.0,Male,No,Yes,No,Yes,Don't know,Not sure,Don't know,No,Yes
+35.0,Male,No,Yes,No,Yes,Yes,No,Yes,No,No
+36.0,Male,No,Yes,No,Yes,No,Yes,No,No,Yes
+21.0,Male,No,Yes,No,Yes,Yes,No,Don't know,No,Yes
+21.0,Male,No,No,No,No,Don't know,Not sure,No,No,Yes
+22.0,Female,No,No,No,Yes,Yes,No,Yes,No,No
+41.0,Male,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes
+55.0,Male,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes
+32.0,Female,No,No,No,Yes,Yes,Yes,Yes,No,Yes
+21.0,Female,No,Yes,No,Yes,Don't know,Not sure,No,No,Yes
+45.0,Male,No,No,Yes,Yes,Yes,Yes,Don't know,No,Yes
+27.0,Female,No,No,No,Yes,Yes,Yes,No,No,Yes
+25.0,Female,No,Yes,Yes,Yes,Don't know,No,No,No,Yes
+34.0,Female,No,Yes,No,No,Yes,Yes,Yes,No,Yes
+26.0,Female,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes
+41.0,Male,No,No,No,Yes,Yes,Not sure,Don't know,No,Yes
+27.0,Male,No,No,No,Yes,Yes,No,Yes,No,Yes
+31.0,Male,No,Yes,Yes,Yes,Yes,No,No,No,Yes
+25.0,Male,No,Yes,Yes,Yes,No,No,No,No,Yes
+26.0,Male,No,No,No,Yes,Don't know,No,No,No,Yes
+27.0,Female,No,Yes,Yes,Yes,Yes,Yes,Don't know,No,Yes
+42.0,Male,No,No,No,Yes,Don't know,Not sure,No,No,No
+29.0,Other,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+25.0,Female,No,No,No,Yes,Don't know,Not sure,No,No,Yes
+33.0,Female,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes
+,Other,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes
+40.0,Female,No,Yes,No,No,Yes,No,Don't know,No,Yes
+31.0,Male,No,No,No,Yes,Don't know,No,Don't know,No,No
+26.0,Male,No,Yes,Yes,Yes,Don't know,No,Don't know,No,Yes
+24.0,Female,No,Yes,No,No,No,No,No,Yes,No
+29.0,Male,No,No,No,No,Yes,Not sure,Don't know,No,No
+48.0,Male,No,No,No,Yes,Don't know,No,No,No,No
+35.0,Male,No,No,No,Yes,No,No,No,Yes,No
+32.0,Female,No,No,No,Yes,Don't know,Not sure,No,No,No
+29.0,Male,No,No,No,Yes,Don't know,Not sure,Don't know,No,Yes
+26.0,Male,No,Yes,No,Yes,Yes,Yes,No,No,Yes
+28.0,Male,No,Yes,No,Yes,Yes,Yes,No,No,Yes
+23.0,Male,No,No,No,Yes,Don't know,No,Don't know,No,No
+35.0,Male,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes
+29.0,Male,No,Yes,No,Yes,Don't know,No,No,No,Yes
+26.0,Male,No,Yes,No,Yes,Yes,Yes,Yes,No,No
+33.0,Male,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+33.0,Male,No,No,Yes,Yes,Don't know,No,Don't know,No,No
+22.0,Male,Yes,No,Yes,Yes,Don't know,No,No,No,No
+30.0,Female,No,Yes,No,Yes,No,No,No,No,No
+33.0,Male,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+31.0,Female,No,Yes,No,No,Don't know,Not sure,Don't know,No,Yes
+21.0,Male,No,Yes,No,Yes,Don't know,Not sure,Don't know,Yes,No
+31.0,Other,No,Yes,No,Yes,Don't know,No,No,No,Yes
+26.0,Female,No,No,Yes,Yes,Don't know,Not sure,Don't know,No,Yes
+30.0,Male,No,Yes,No,Yes,Don't know,No,Don't know,No,No
+30.0,Other,No,Yes,No,Yes,Don't know,Not sure,No,No,Yes
+23.0,Male,No,No,No,Yes,No,No,No,No,No
+34.0,Male,No,No,No,Yes,No,No,No,No,No
+55.0,Male,No,Yes,Yes,Yes,No,Yes,Don't know,Yes,Yes
+28.0,Male,No,Yes,Yes,Yes,Yes,No,No,No,Yes
+26.0,Male,No,No,Yes,Yes,Don't know,No,No,No,No
+28.0,Male,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+32.0,Male,No,Yes,No,Yes,No,No,Don't know,No,Yes
+28.0,Female,No,No,No,No,Yes,Yes,Don't know,No,Yes
+21.0,Male,No,No,No,No,Don't know,Not sure,Yes,No,No
+24.0,Male,No,Yes,No,Yes,No,Yes,No,Yes,Yes
+26.0,Female,No,No,No,No,Yes,Not sure,Don't know,No,No
+23.0,Male,No,No,No,No,Yes,No,No,No,No
+24.0,Female,No,No,No,Yes,Yes,Yes,Yes,No,No
+28.0,Male,Yes,No,Yes,Yes,Don't know,No,No,No,No
+24.0,Female,No,Yes,No,Yes,No,No,No,No,Yes
+33.0,Male,Yes,No,Yes,Yes,No,No,No,No,Yes
+34.0,Male,No,No,No,Yes,Don't know,No,No,No,No
+27.0,Female,No,No,No,Yes,Don't know,Not sure,No,No,Yes
+28.0,Male,No,No,No,Yes,Don't know,No,Don't know,No,No
+26.0,Male,No,No,No,Yes,Don't know,Not sure,Don't know,Yes,No
+20.0,Male,No,No,Yes,Yes,Don't know,Not sure,Don't know,No,No
+23.0,Female,No,No,No,Yes,Yes,Yes,Don't know,No,Yes
+29.0,Male,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+26.0,Male,No,Yes,No,Yes,No,No,No,No,No
+36.0,Male,No,No,Yes,Yes,Yes,No,Don't know,No,No
+41.0,Male,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+33.0,Female,No,No,Yes,Yes,Yes,No,No,No,No
+23.0,Male,No,Yes,No,Yes,Yes,Yes,No,No,Yes
+39.0,Male,No,Yes,No,Yes,Yes,No,Don't know,Yes,No
+34.0,Male,No,Yes,No,Yes,Yes,Not sure,Don't know,Yes,No
+26.0,Female,No,No,No,Yes,Yes,Yes,No,Yes,Yes
+24.0,Male,No,No,No,Yes,Yes,Yes,No,No,Yes
+37.0,Male,No,Yes,No,No,Yes,Yes,Yes,No,Yes
+43.0,Male,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+40.0,Other,No,Yes,No,Yes,Yes,Yes,Don't know,No,No
+30.0,Male,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes
+34.0,Male,No,No,No,Yes,Don't know,Not sure,No,No,Yes
+27.0,Male,No,Yes,No,Yes,Don't know,Not sure,Don't know,No,Yes
+36.0,Male,No,No,No,Yes,Don't know,No,No,No,No
+27.0,Male,No,No,No,Yes,No,Yes,No,No,No
+35.0,Male,No,Yes,No,Yes,Yes,No,No,No,No
+32.0,Male,No,No,No,Yes,No,No,No,No,No
+37.0,Male,No,No,No,Yes,Yes,No,No,No,No
+29.0,Male,No,No,No,Yes,Don't know,No,Don't know,No,No
+33.0,Female,No,No,No,Yes,Yes,Not sure,Yes,No,No
+28.0,Male,No,No,Yes,Yes,No,Yes,No,No,No
+26.0,Female,No,Yes,No,Yes,Don't know,Not sure,No,No,No
+27.0,Male,No,Yes,Yes,Yes,Don't know,No,Don't know,No,Yes
+38.0,Male,Yes,No,Yes,Yes,No,No,No,No,Yes
+57.0,Male,No,Yes,No,Yes,Yes,Yes,No,No,Yes
+28.0,Male,No,No,No,Yes,No,No,No,No,Yes
+26.0,Male,No,No,No,Yes,No,Yes,No,No,No
+42.0,Female,No,No,Yes,Yes,Yes,Yes,No,No,Yes
+31.0,Male,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes
+58.0,Male,No,No,No,Yes,Yes,Yes,Yes,No,Yes
+29.0,Male,No,No,No,Yes,Don't know,No,No,No,No
+39.0,Female,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+34.0,Male,No,No,Yes,Yes,Don't know,No,No,No,No
+57.0,Male,No,No,No,Yes,Yes,Not sure,Yes,No,Yes
+27.0,Male,No,Yes,No,Yes,No,Not sure,No,Yes,Yes
+23.0,Male,Yes,Yes,Yes,Yes,Don't know,No,Don't know,No,Yes
+18.0,Male,No,No,Yes,No,Don't know,No,Don't know,No,No
+30.0,Female,No,No,No,Yes,Don't know,Not sure,No,No,No
+23.0,Male,No,No,No,No,Don't know,Not sure,Don't know,No,No
+43.0,Male,No,No,No,Yes,Yes,Yes,Yes,No,Yes
+18.0,Female,No,Yes,Yes,Yes,Don't know,Not sure,Don't know,No,Yes
+29.0,Male,No,No,No,Yes,Yes,Yes,No,No,Yes
+48.0,Male,No,No,No,Yes,Don't know,No,Don't know,No,No
+43.0,Male,No,No,No,No,No,Yes,No,Yes,Yes
+28.0,Female,No,Yes,No,Yes,Don't know,Not sure,No,No,Yes
+30.0,Male,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes
+26.0,Male,No,No,No,Yes,No,No,No,No,No
+33.0,Male,No,No,No,No,No,No,No,No,No
+31.0,Male,No,No,No,Yes,Yes,Not sure,Don't know,No,No
+30.0,Male,No,No,No,No,Don't know,Not sure,No,No,No
+27.0,Male,No,No,No,Yes,No,No,No,Yes,No
+24.0,Female,Yes,Yes,Yes,Yes,No,No,Don't know,Yes,Yes
+25.0,Male,No,No,No,Yes,Don't know,Not sure,Don't know,No,No
+23.0,Female,No,Yes,No,Yes,Yes,Not sure,No,Yes,Yes
+36.0,Male,No,No,No,No,Yes,Not sure,No,Yes,Yes
+25.0,Female,Yes,Yes,Yes,Yes,Don't know,Not sure,No,Yes,Yes
+54.0,Male,No,No,Yes,No,No,Yes,Yes,No,Yes
+34.0,Male,No,No,No,Yes,Don't know,Not sure,Don't know,No,No
+38.0,Female,No,No,No,Yes,Yes,Yes,No,No,Yes
+40.0,Male,Yes,Yes,No,Yes,No,No,No,Yes,No
+32.0,Male,No,No,No,Yes,No,Not sure,Don't know,No,No
+25.0,Male,No,No,No,No,Don't know,Not sure,Yes,No,No
+35.0,Female,No,No,No,Yes,No,Yes,No,No,Yes
+46.0,Male,No,No,No,Yes,Yes,Yes,Yes,No,Yes
+42.0,Male,No,No,No,No,Yes,No,No,No,No
+32.0,Male,No,Yes,Yes,Yes,Yes,No,No,No,Yes
+47.0,Male,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes
+22.0,Male,No,No,No,Yes,Yes,Not sure,Don't know,No,No
+33.0,Female,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes
+25.0,Female,No,No,No,Yes,No,No,No,No,No
+29.0,Male,No,No,No,Yes,Don't know,Not sure,Don't know,No,No
+39.0,Male,No,No,No,Yes,Yes,Yes,Yes,No,No
+38.0,Male,No,Yes,No,Yes,Yes,Not sure,Yes,No,Yes
+43.0,Male,No,No,Yes,Yes,Don't know,No,Don't know,No,No
+46.0,Male,No,No,Yes,Yes,Yes,Not sure,Yes,No,Yes
+38.0,Female,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes
+33.0,Male,No,No,No,Yes,Yes,Yes,No,No,Yes
+34.0,Male,No,Yes,No,Yes,No,Yes,No,No,Yes
+62.0,Male,No,No,No,Yes,Yes,Yes,Yes,No,No
+23.0,Female,No,No,No,No,Don't know,Not sure,Don't know,No,No
+35.0,Male,No,No,No,No,No,No,No,No,No
+25.0,Male,No,Yes,Yes,Yes,Don't know,Not sure,Don't know,Yes,No
+36.0,Male,Yes,Yes,Yes,Yes,Don't know,Yes,No,No,Yes
+41.0,Female,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+24.0,Male,Yes,No,No,Yes,Yes,Yes,Don't know,No,No
+51.0,Male,No,No,Yes,Yes,No,Yes,No,Yes,Yes
+29.0,Male,No,No,No,Yes,Yes,Yes,Yes,No,Yes
+31.0,Female,Yes,Yes,Yes,Yes,Don't know,Not sure,Don't know,No,Yes
+27.0,Male,No,No,No,Yes,No,No,No,No,No
+31.0,Male,No,No,No,Yes,Yes,Yes,Yes,No,Yes
+27.0,Female,Yes,Yes,Yes,Yes,No,No,No,No,No
+23.0,Male,No,No,No,Yes,Don't know,No,Don't know,No,No
+21.0,Male,No,No,No,Yes,Don't know,Not sure,No,No,No
+27.0,Female,No,Yes,No,Yes,No,Yes,No,No,Yes
+39.0,Male,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+26.0,Male,No,Yes,No,Yes,Don't know,No,Don't know,No,Yes
+27.0,Male,No,No,No,Yes,Don't know,No,No,No,No
+22.0,Female,No,Yes,No,Yes,Yes,Yes,Don't know,Yes,Yes
+26.0,Female,No,Yes,No,No,Don't know,No,No,No,Yes
+31.0,Female,No,Yes,No,Yes,Yes,Yes,No,No,Yes
+32.0,Male,No,No,No,Yes,Don't know,No,No,No,No
+28.0,Female,No,Yes,Yes,Yes,Yes,No,Don't know,Yes,Yes
+28.0,Other,No,Yes,No,Yes,No,Not sure,No,Yes,Yes
+23.0,Female,No,No,No,Yes,Don't know,Not sure,No,No,No
+30.0,Male,No,No,Yes,Yes,Don't know,Not sure,Don't know,No,No
+36.0,Male,No,Yes,No,Yes,Yes,No,Yes,No,Yes
+21.0,Male,No,Yes,No,Yes,Yes,Yes,Yes,No,No
+30.0,Male,No,No,No,Yes,No,No,No,No,No
+25.0,Female,No,Yes,No,No,Don't know,Not sure,No,No,No
+32.0,Male,No,No,No,Yes,No,No,No,No,Yes
+29.0,Female,No,No,No,Yes,No,No,No,No,Yes
+21.0,Other,No,No,No,Yes,No,Yes,No,No,Yes
+27.0,Female,No,Yes,Yes,Yes,No,No,No,No,Yes
+32.0,Female,No,No,No,No,Don't know,Not sure,Don't know,No,Yes
+34.0,Male,No,No,No,Yes,Yes,Yes,Yes,No,No
+33.0,Male,No,No,No,Yes,Don't know,No,Don't know,No,No
+22.0,Male,No,Yes,Yes,Yes,No,Not sure,Don't know,No,Yes
+24.0,Male,No,No,No,Yes,Don't know,Not sure,Don't know,No,No
+65.0,Male,Yes,No,Yes,No,No,No,No,No,No
+27.0,Male,No,Yes,Yes,Yes,Don't know,No,Don't know,No,Yes
+33.0,Male,No,No,No,Yes,Don't know,Not sure,Don't know,No,No
+36.0,Male,No,No,No,Yes,Don't know,Not sure,Don't know,No,Yes
+40.0,Male,No,No,No,Yes,No,No,No,No,No
+28.0,Male,No,No,No,Yes,Yes,Yes,No,No,Yes
+39.0,Male,No,No,No,Yes,Yes,Not sure,Don't know,No,Yes
+32.0,Male,No,No,No,Yes,Yes,No,Yes,No,Yes
+31.0,Male,No,Yes,No,Yes,Yes,Not sure,Don't know,No,No
+38.0,Male,No,Yes,No,Yes,Don't know,No,No,No,Yes
+23.0,Male,No,Yes,No,Yes,No,Yes,No,No,Yes
+42.0,Male,No,No,No,Yes,Yes,Yes,Yes,No,Yes
+27.0,Female,No,No,No,Yes,Don't know,Not sure,Yes,No,No
+26.0,Female,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes
+50.0,Male,No,No,Yes,Yes,No,Yes,No,No,No
+37.0,Male,No,Yes,No,Yes,Don't know,No,Don't know,No,No
+23.0,Male,No,No,No,Yes,Don't know,No,No,No,No
+33.0,Male,No,Yes,Yes,Yes,Don't know,Not sure,No,No,No
+29.0,Male,Yes,No,Yes,Yes,Yes,Yes,No,No,No
+34.0,Male,No,Yes,Yes,No,Yes,No,No,No,Yes
+41.0,Male,No,Yes,No,Yes,Yes,No,No,Yes,Yes
+50.0,Male,No,Yes,Yes,Yes,Don't know,No,Don't know,No,No
+29.0,Male,No,No,No,No,Yes,Not sure,Yes,Yes,Yes
+35.0,Male,No,No,No,Yes,No,Yes,No,No,No
+27.0,Male,No,No,Yes,Yes,No,No,No,No,No
+40.0,Female,No,No,No,No,Don't know,Not sure,No,No,No
+27.0,Male,No,No,Yes,Yes,No,No,No,Yes,Yes
+29.0,Female,No,No,No,Yes,Yes,Yes,No,Yes,No
+31.0,Male,No,Yes,No,Yes,No,No,No,No,Yes
+43.0,Male,No,No,No,Yes,No,Yes,No,No,Yes
+34.0,Male,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+29.0,Male,No,Yes,No,Yes,Don't know,No,No,No,Yes
+19.0,Male,No,Yes,No,Yes,No,No,No,No,Yes
+41.0,Male,No,Yes,No,Yes,Yes,Not sure,Yes,No,Yes
+29.0,Male,No,Yes,No,Yes,Yes,Yes,Yes,No,No
+23.0,Male,No,No,No,Yes,Yes,Not sure,Don't know,No,No
+24.0,Female,No,Yes,No,Yes,Yes,Not sure,No,Yes,Yes
+31.0,Male,No,No,Yes,Yes,Don't know,No,Don't know,No,No
+43.0,Male,No,No,Yes,Yes,Don't know,Not sure,Don't know,No,No
+31.0,Male,No,Yes,No,Yes,No,No,Don't know,Yes,Yes
+29.0,Male,No,Yes,No,Yes,Yes,Yes,Yes,No,No
+35.0,Male,Yes,Yes,Yes,Yes,No,No,Yes,No,No
+33.0,Male,No,Yes,No,No,Yes,Not sure,No,No,Yes
+30.0,Female,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes
+27.0,Male,No,No,No,Yes,Yes,Not sure,Don't know,No,No
+32.0,Male,No,No,No,Yes,No,Yes,No,No,No
+50.0,Male,No,No,Yes,Yes,Don't know,No,Don't know,No,No
+24.0,Male,No,No,No,No,Don't know,Not sure,No,No,No
+27.0,Male,No,No,No,Yes,Don't know,No,No,No,No
+27.0,Male,No,No,Yes,Yes,No,No,No,No,No
+32.0,Male,No,No,No,Yes,No,Yes,No,No,Yes
+42.0,Male,Yes,No,Yes,No,No,Yes,No,No,No
+37.0,Male,No,No,No,No,Don't know,No,No,No,No
+30.0,Male,No,No,No,Yes,Don't know,Not sure,No,Yes,No
+29.0,Male,No,No,No,Yes,Yes,No,No,No,No
+30.0,Male,Yes,No,Yes,Yes,No,Not sure,Yes,No,Yes
+35.0,Male,No,No,No,Yes,Yes,No,Don't know,No,No
+35.0,Male,No,Yes,Yes,No,Yes,Yes,No,No,Yes
+38.0,Male,No,Yes,Yes,Yes,No,Not sure,Don't know,No,No
+22.0,Male,No,Yes,No,Yes,Yes,Yes,No,No,Yes
+24.0,Male,No,Yes,No,Yes,Don't know,No,No,No,No
+22.0,Male,Yes,No,No,Yes,Don't know,Not sure,No,Yes,No
+31.0,Female,No,No,Yes,Yes,Yes,Yes,No,No,Yes
+23.0,Female,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes
+31.0,Female,No,Yes,No,Yes,Don't know,No,No,No,Yes
+28.0,Female,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes
+37.0,Male,No,Yes,No,No,Yes,Yes,No,No,Yes
+34.0,Male,Yes,Yes,No,Yes,No,Yes,No,No,Yes
+32.0,Male,No,No,Yes,Yes,No,Yes,No,Yes,No
+28.0,Male,No,Yes,Yes,Yes,Yes,Not sure,Don't know,Yes,Yes
+24.0,Female,No,No,No,Yes,No,No,No,No,Yes
+56.0,Male,No,Yes,No,Yes,Yes,Yes,No,No,Yes
+31.0,Male,No,No,Yes,Yes,No,No,No,No,No
+34.0,Female,No,No,Yes,Yes,Yes,Yes,Don't know,No,Yes
+35.0,Male,No,No,No,No,Don't know,No,Don't know,No,Yes
+28.0,Male,No,No,No,Yes,No,No,No,No,No
+36.0,Male,Yes,Yes,No,Yes,No,No,No,Yes,Yes
+30.0,Male,No,No,No,Yes,No,No,No,No,Yes
+35.0,Male,Yes,No,Yes,Yes,Yes,Not sure,No,No,No
+49.0,Male,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes
+36.0,Male,No,No,No,Yes,Yes,Yes,No,No,No
+35.0,Male,No,No,No,Yes,No,No,No,No,No
+29.0,Female,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes
+57.0,Male,No,No,No,Yes,Yes,Yes,Yes,Yes,No
+31.0,Female,No,Yes,No,No,Yes,No,No,Yes,Yes
+37.0,Male,Yes,No,No,Yes,No,No,No,No,No
+25.0,Male,No,Yes,No,Yes,No,No,No,No,Yes
+30.0,Male,No,No,No,Yes,No,No,No,No,No
+26.0,Female,No,Yes,No,No,No,Yes,Yes,No,No
+22.0,Female,No,No,No,Yes,No,No,No,No,No
+39.0,Male,No,No,Yes,No,Don't know,No,Yes,No,No
+29.0,Male,No,Yes,No,Yes,Don't know,Not sure,Don't know,No,Yes
+54.0,Male,Yes,Yes,Yes,Yes,Don't know,Not sure,No,Yes,Yes
+34.0,Female,No,Yes,No,No,Don't know,No,Yes,Yes,No
+32.0,Male,No,No,No,No,Yes,Not sure,Yes,No,Yes
+25.0,Male,No,No,No,Yes,No,No,No,No,No
+29.0,Male,No,No,No,Yes,No,No,No,No,No
+32.0,Male,Yes,No,Yes,Yes,No,No,No,No,No
+30.0,Male,No,Yes,No,Yes,Yes,Yes,Don't know,No,Yes
+31.0,Male,No,No,No,Yes,Don't know,No,Don't know,No,No
+20.0,Female,No,No,No,Yes,Yes,Yes,Yes,No,No
+27.0,Male,No,No,No,Yes,Don't know,No,Don't know,No,No
+32.0,Male,No,No,No,Yes,Don't know,Not sure,Don't know,No,No
+26.0,Male,Yes,No,Yes,Yes,No,No,No,No,No
+30.0,Male,No,No,No,No,Don't know,No,No,No,No
+30.0,Male,No,No,Yes,Yes,No,No,No,No,Yes
+22.0,Male,Yes,No,Yes,Yes,Don't know,No,Don't know,Yes,No
+24.0,Male,No,No,No,Yes,Don't know,Not sure,Don't know,No,No
+26.0,Male,No,No,No,Yes,No,No,No,No,No
+43.0,Male,No,No,No,Yes,Don't know,No,No,No,No
+26.0,Male,No,No,No,Yes,No,Not sure,Don't know,No,No
+23.0,Male,No,Yes,No,Yes,Don't know,Not sure,Don't know,No,No
+26.0,Male,No,No,Yes,Yes,Yes,Not sure,Yes,No,No
+26.0,Female,No,Yes,No,Yes,Don't know,No,Don't know,No,No
+35.0,Male,No,Yes,No,Yes,Don't know,No,No,No,No
+28.0,Male,No,No,Yes,No,Don't know,Not sure,Don't know,No,Yes
+22.0,Male,No,No,No,Yes,No,No,No,No,No
+29.0,Female,No,Yes,No,Yes,Don't know,No,No,No,Yes
+29.0,Male,Yes,No,No,Yes,No,Yes,No,No,No
+45.0,Male,No,No,Yes,Yes,Yes,Not sure,Yes,No,Yes
+33.0,Male,No,No,Yes,Yes,No,No,No,Yes,Yes
+38.0,Male,No,No,No,No,Yes,Yes,Yes,No,Yes
+19.0,Female,No,Yes,No,No,Don't know,Not sure,No,No,Yes
+29.0,Female,No,No,Yes,No,Yes,Yes,Don't know,No,Yes
+21.0,Female,No,No,No,Yes,No,No,No,No,No
+23.0,Female,No,Yes,No,Yes,Don't know,Not sure,Don't know,No,Yes
+33.0,Female,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes
+49.0,Male,No,Yes,No,Yes,Yes,Not sure,Yes,No,Yes
+28.0,Male,No,No,Yes,Yes,Don't know,No,No,No,No
+27.0,Female,No,No,Yes,Yes,Don't know,Not sure,Don't know,No,Yes
+23.0,Male,No,No,No,Yes,Yes,No,No,No,Yes
+29.0,Male,No,No,Yes,Yes,No,No,No,No,No
+30.0,Male,No,No,No,Yes,Don't know,No,Don't know,No,No
+28.0,Female,No,No,No,Yes,Yes,Not sure,Don't know,No,No
+32.0,Male,No,No,No,Yes,No,No,No,No,No
+32.0,Male,No,No,No,No,Yes,Yes,No,No,Yes
+37.0,Male,No,No,No,Yes,No,No,No,No,No
+39.0,Female,No,No,Yes,No,No,Yes,No,No,No
+31.0,Male,No,No,No,Yes,Don't know,No,Don't know,No,No
+29.0,Male,No,No,No,Yes,No,No,Don't know,No,No
+30.0,Male,No,No,No,No,Yes,No,Don't know,No,No
+33.0,Male,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes
+37.0,Male,No,Yes,No,Yes,Yes,Yes,Don't know,No,Yes
+23.0,Male,No,No,No,No,Yes,Yes,No,No,Yes
+43.0,Male,No,Yes,No,No,Yes,Not sure,Yes,No,Yes
+32.0,Male,No,No,No,Yes,Don't know,No,No,Yes,Yes
+26.0,Male,No,No,No,Yes,Don't know,Not sure,No,No,No
+32.0,Male,Yes,No,Yes,Yes,Don't know,Not sure,Don't know,No,Yes
+37.0,Female,No,No,Yes,Yes,Don't know,Not sure,Don't know,No,No
+29.0,Male,No,No,No,Yes,Yes,Yes,No,No,Yes
+34.0,Male,No,No,No,Yes,No,No,No,No,No
+27.0,Male,No,No,No,Yes,Don't know,Not sure,Don't know,No,No
+30.0,Male,No,Yes,No,Yes,Don't know,No,Don't know,No,No
+29.0,Male,No,No,No,Yes,Yes,Yes,Yes,No,No
+32.0,Male,Yes,Yes,Yes,Yes,Yes,Yes,Don't know,No,Yes
+,Male,No,No,No,No,No,No,No,No,Yes
+25.0,Male,No,No,No,Yes,Yes,Yes,Yes,No,No
+37.0,Male,Yes,No,Yes,Yes,Yes,Yes,No,No,No
+29.0,Male,No,Yes,No,Yes,No,No,No,No,No
+27.0,Male,No,No,No,Yes,Yes,Not sure,Don't know,No,No
+33.0,Male,No,No,No,Yes,Don't know,No,No,No,No
+30.0,Male,No,Yes,No,No,Don't know,No,No,Yes,Yes
+29.0,Male,No,No,Yes,Yes,No,Yes,No,No,No
+25.0,Male,No,Yes,Yes,Yes,Don't know,No,Don't know,No,Yes
+33.0,Male,No,Yes,No,No,No,Yes,No,No,Yes
+31.0,Male,No,No,Yes,Yes,No,No,No,No,No
+21.0,Male,No,No,Yes,Yes,Don't know,No,No,No,No
+30.0,Male,No,Yes,No,Yes,Don't know,No,No,No,Yes
+29.0,Male,No,No,No,No,Don't know,Not sure,Don't know,No,No
+43.0,Male,Yes,No,Yes,Yes,No,No,No,Yes,Yes
+37.0,Male,No,No,No,Yes,No,No,No,No,Yes
+24.0,Male,No,No,No,Yes,No,No,No,No,No
+29.0,Male,No,No,Yes,Yes,Don't know,Not sure,No,No,No
+31.0,Male,No,No,No,No,Yes,Yes,Yes,No,No
+5.0,Male,No,No,No,Yes,Don't know,Not sure,No,No,No
+33.0,Male,Yes,No,No,No,No,Not sure,No,No,No
+43.0,Male,No,No,No,No,Yes,Yes,Yes,No,No
+33.0,Male,No,No,No,Yes,Don't know,Not sure,No,No,Yes
+27.0,Male,No,No,No,Yes,No,No,Yes,No,No
+36.0,Male,No,Yes,Yes,No,Don't know,No,Don't know,No,Yes
+37.0,Male,No,Yes,No,Yes,No,Yes,No,Yes,Yes
+32.0,Male,No,No,No,Yes,No,Yes,No,No,No
+39.0,Male,No,No,No,Yes,No,No,No,No,Yes
+31.0,Male,No,Yes,No,Yes,Yes,Yes,Don't know,No,Yes
+36.0,Male,No,No,Yes,Yes,Yes,Yes,No,No,Yes
+30.0,Male,Yes,No,Yes,Yes,Don't know,Not sure,Don't know,No,Yes
+28.0,Male,No,No,No,Yes,Yes,Not sure,Don't know,No,No
+32.0,Male,No,No,No,Yes,No,No,No,No,No
+35.0,Male,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes
+19.0,Male,No,No,No,Yes,Don't know,Not sure,No,No,Yes
+33.0,Male,No,Yes,No,Yes,Yes,Yes,No,No,No
+42.0,Male,No,No,Yes,Yes,Don't know,Not sure,Yes,No,No
+37.0,Male,No,Yes,No,Yes,Don't know,Not sure,Don't know,No,Yes
+40.0,Male,Yes,No,No,Yes,No,No,No,No,No
+36.0,Male,No,No,No,Yes,Yes,Yes,Yes,No,No
+29.0,Female,No,Yes,Yes,No,Don't know,No,Don't know,No,Yes
+38.0,Female,No,Yes,No,No,Yes,Not sure,Don't know,No,Yes
+26.0,Male,No,Yes,No,Yes,Yes,No,Don't know,No,Yes
+34.0,Male,No,No,No,Yes,No,No,No,No,No
+21.0,Male,No,No,No,No,No,Yes,No,Yes,Yes
+31.0,Male,Yes,Yes,Yes,Yes,No,Yes,No,No,No
+37.0,Female,No,Yes,No,No,Yes,Yes,Yes,No,Yes
+37.0,Male,No,Yes,No,Yes,No,No,No,No,Yes
+38.0,Male,No,Yes,No,Yes,No,No,No,No,Yes
+27.0,Female,No,No,No,Yes,Don't know,Not sure,Don't know,No,Yes
+39.0,Male,Yes,No,No,Yes,No,No,No,No,No
+33.0,Female,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes
+27.0,Male,No,No,No,Yes,Don't know,Not sure,Don't know,No,No
+36.0,Female,No,No,Yes,Yes,Yes,No,No,No,Yes
+28.0,Male,No,No,No,Yes,Don't know,Not sure,No,No,No
+39.0,Male,No,No,No,No,Don't know,No,No,No,Yes
+33.0,Male,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes
+32.0,Male,No,No,No,No,Don't know,Not sure,Don't know,No,No
+28.0,Male,No,No,No,No,Don't know,Not sure,Don't know,No,No
+37.0,Male,No,Yes,No,Yes,No,No,No,Yes,Yes
+39.0,Male,No,No,No,No,Yes,Yes,Yes,Yes,Yes
+43.0,Male,No,No,Yes,Yes,Don't know,No,Don't know,No,No
+32.0,Other,No,No,No,No,Don't know,No,Yes,Yes,Yes
+27.0,Female,No,No,No,Yes,Don't know,Not sure,Yes,No,No
+31.0,Female,No,No,No,Yes,Don't know,No,No,No,No
+43.0,Male,No,No,No,Yes,Don't know,No,Don't know,No,Yes
+33.0,Male,No,No,Yes,Yes,No,Yes,No,No,Yes
+34.0,Male,No,Yes,No,Yes,Don't know,Not sure,Don't know,No,Yes
+33.0,Male,Yes,No,No,Yes,Don't know,No,No,No,No
+25.0,Male,No,No,No,Yes,Don't know,No,No,No,No
+25.0,Male,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes
+32.0,Male,Yes,Yes,No,Yes,No,Yes,No,No,No
+25.0,Male,No,Yes,No,Yes,Yes,Yes,Don't know,No,Yes
+37.0,Male,No,No,Yes,No,Don't know,No,Don't know,No,No
+39.0,Male,No,No,No,Yes,Yes,Yes,Yes,No,Yes
+29.0,Male,No,No,No,Yes,Don't know,Not sure,No,Yes,No
+33.0,Male,No,No,No,Yes,Yes,Yes,Don't know,No,Yes
+37.0,Female,No,No,Yes,Yes,Don't know,Not sure,No,Yes,Yes
+35.0,Female,No,No,No,No,Yes,No,No,Yes,Yes
+22.0,Female,No,Yes,No,Yes,Don't know,Not sure,Don't know,Yes,Yes
+38.0,Male,No,No,No,Yes,Yes,Yes,No,Yes,No
+32.0,Female,No,Yes,No,Yes,Yes,No,Don't know,No,Yes
+28.0,Male,No,No,No,Yes,Don't know,No,No,Yes,No
+27.0,Male,No,Yes,No,Yes,No,No,No,No,No
+35.0,Female,No,No,Yes,Yes,Don't know,No,Don't know,No,Yes
+29.0,Male,No,No,No,No,Yes,Yes,No,No,No
+23.0,Male,No,Yes,No,Yes,No,Yes,No,No,Yes
+39.0,Male,No,No,Yes,Yes,Yes,No,No,No,No
+30.0,Female,No,No,No,Yes,Yes,Yes,Yes,No,No
+32.0,Male,No,No,No,Yes,Don't know,Not sure,Don't know,No,No
+28.0,Female,No,No,No,Yes,No,Yes,No,Yes,Yes
+40.0,Female,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes
+36.0,Female,No,Yes,No,Yes,Don't know,No,Don't know,No,No
+27.0,Male,No,No,Yes,Yes,Don't know,Not sure,Don't know,No,No
+41.0,Male,No,Yes,No,Yes,Yes,Yes,Yes,No,No
+29.0,Male,No,No,No,Yes,Don't know,No,No,No,No
+29.0,Male,No,No,No,Yes,No,No,No,No,Yes
+35.0,Male,No,No,No,No,No,No,No,Yes,Yes
+28.0,Male,No,No,Yes,Yes,No,Yes,No,No,Yes
+36.0,Female,Yes,No,Yes,Yes,Don't know,Not sure,Don't know,No,No
+39.0,Female,No,No,No,Yes,Don't know,Not sure,Don't know,No,No
+39.0,Male,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes
+44.0,Male,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes
+26.0,Other,Yes,No,Yes,Yes,No,Not sure,Yes,No,Yes
+35.0,Male,Yes,Yes,No,Yes,No,Yes,No,No,Yes
+40.0,Female,No,Yes,No,No,Yes,Not sure,Don't know,No,Yes
+35.0,Male,Yes,Yes,No,Yes,No,Yes,No,No,Yes
+38.0,Male,No,No,Yes,Yes,No,Yes,No,No,No
+34.0,Male,No,No,Yes,Yes,Don't know,Not sure,Don't know,No,No
+43.0,Male,No,No,No,Yes,Yes,No,Yes,No,No
+48.0,Female,No,Yes,No,Yes,Don't know,No,No,Yes,No
+20.0,Male,No,No,No,Yes,Don't know,Not sure,Don't know,No,No
+40.0,Male,Yes,No,Yes,Yes,Don't know,Not sure,No,No,No
+29.0,Female,No,No,No,Yes,Don't know,No,No,No,Yes
+35.0,Male,No,Yes,No,No,No,Yes,No,No,Yes
+29.0,Male,No,Yes,Yes,No,Yes,Yes,Yes,No,No
+40.0,Male,No,No,No,Yes,Yes,Not sure,Don't know,No,No
+29.0,Male,No,No,No,Yes,No,Yes,No,No,Yes
+29.0,Female,No,Yes,No,Yes,Yes,Not sure,No,No,Yes
+34.0,Male,No,No,No,Yes,No,No,No,No,Yes
+44.0,Male,No,Yes,No,No,Don't know,No,No,Yes,Yes
+24.0,Female,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes
+47.0,Female,No,No,Yes,Yes,Don't know,No,Don't know,No,No
+43.0,Male,No,Yes,No,No,Don't know,No,No,No,No
+36.0,Male,No,No,No,Yes,Yes,Yes,Yes,No,No
+43.0,Male,No,No,No,No,Don't know,No,Don't know,No,Yes
+36.0,Male,Yes,No,Yes,Yes,No,No,No,Yes,No
+31.0,Female,No,Yes,No,Yes,Yes,Yes,No,No,Yes
+35.0,Male,No,No,No,Yes,Don't know,Not sure,Don't know,No,No
+33.0,Male,No,Yes,No,No,Yes,No,No,No,No
+37.0,Male,No,No,No,Yes,Don't know,Not sure,Don't know,No,No
+34.0,Male,No,No,No,Yes,Don't know,No,Don't know,No,Yes
+36.0,Male,Yes,No,No,Yes,No,No,No,No,Yes
+40.0,Male,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes
+40.0,Male,No,No,No,Yes,Yes,Yes,Yes,No,No
+42.0,Male,No,No,Yes,Yes,No,Yes,No,No,Yes
+23.0,Male,No,Yes,Yes,Yes,Yes,Yes,Don't know,No,No
+21.0,Male,No,Yes,No,No,No,No,No,No,No
+26.0,Male,No,No,Yes,Yes,No,No,No,No,No
+31.0,Male,No,Yes,No,Yes,Don't know,Not sure,No,No,No
+25.0,Male,No,Yes,No,Yes,Yes,Yes,Yes,No,No
+51.0,Male,No,No,Yes,Yes,Yes,Yes,Yes,No,No
+24.0,Male,No,No,No,Yes,Don't know,Not sure,No,No,No
+33.0,Male,No,No,No,Yes,No,No,No,No,No
+32.0,Male,No,Yes,No,No,No,No,No,No,Yes
+32.0,Male,No,Yes,No,No,No,No,No,No,Yes
+26.0,Male,Yes,No,Yes,Yes,No,Not sure,Don't know,No,Yes
+23.0,Male,No,No,No,No,Don't know,No,Don't know,No,No
+33.0,Male,No,Yes,Yes,Yes,No,Yes,No,No,Yes
+46.0,Male,No,No,No,No,Yes,Yes,Yes,No,Yes
+34.0,Male,No,No,Yes,Yes,No,No,No,Yes,No
+35.0,Male,No,Yes,No,Yes,Yes,Yes,No,No,Yes
+39.0,Male,No,No,Yes,Yes,No,Yes,No,No,No
+32.0,Male,Yes,No,Yes,Yes,No,Yes,No,No,No
+43.0,Male,Yes,No,Yes,Yes,Don't know,No,Don't know,No,No
+56.0,Male,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes
+32.0,Female,No,Yes,No,Yes,Don't know,No,No,Yes,Yes
+41.0,Male,No,No,No,No,Yes,Yes,Yes,Yes,No
+39.0,Male,No,No,Yes,Yes,Don't know,Not sure,Don't know,No,No
+37.0,Male,No,Yes,No,No,Yes,Yes,No,No,No
+30.0,Male,Yes,Yes,Yes,Yes,Don't know,Not sure,Don't know,No,Yes
+31.0,Male,No,No,No,Yes,Yes,No,No,No,No
+29.0,Male,No,No,No,No,Don't know,Not sure,Don't know,No,No
+23.0,Female,No,Yes,No,No,No,No,Yes,No,No
+31.0,Male,No,No,No,Yes,Yes,Yes,Don't know,No,Yes
+29.0,Male,No,Yes,No,Yes,Don't know,Not sure,Don't know,No,Yes
+30.0,Male,No,No,Yes,Yes,Yes,Yes,Don't know,No,No
+37.0,Male,No,No,Yes,Yes,Yes,No,Don't know,Yes,No
+36.0,Male,Yes,No,No,Yes,Yes,No,Don't know,No,No
+35.0,Male,No,Yes,Yes,Yes,Yes,Yes,Don't know,No,Yes
+41.0,Male,No,Yes,Yes,No,Don't know,No,No,No,No
+31.0,Male,No,No,No,Yes,Don't know,Not sure,No,No,Yes
+38.0,Male,No,Yes,No,No,Yes,Yes,Yes,No,No
+26.0,Male,Yes,No,No,Yes,No,No,No,No,No
+39.0,Male,No,Yes,No,Yes,Yes,No,Yes,Yes,No
+42.0,Male,Yes,Yes,Yes,No,Yes,Not sure,Yes,No,No
+32.0,Male,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes
+29.0,Male,No,Yes,No,Yes,Don't know,Not sure,Don't know,No,No
+30.0,Male,No,Yes,No,Yes,Yes,No,Yes,No,No
+40.0,Male,No,Yes,Yes,Yes,Don't know,Not sure,Don't know,No,Yes
+51.0,Male,No,No,No,No,Don't know,Not sure,Don't know,No,No
+33.0,Male,No,No,No,Yes,Yes,Yes,Yes,No,No
+34.0,Male,Yes,No,Yes,Yes,No,Not sure,No,No,Yes
+50.0,Male,Yes,No,Yes,Yes,No,Yes,No,No,No
+24.0,Male,No,No,Yes,Yes,Don't know,No,Don't know,No,No
+25.0,Male,No,Yes,No,No,No,No,No,No,Yes
+43.0,Male,No,Yes,No,Yes,No,No,No,Yes,Yes
+25.0,Female,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+24.0,Male,Yes,No,Yes,Yes,No,Yes,No,No,No
+51.0,Male,Yes,No,No,Yes,No,Yes,No,No,No
+49.0,Male,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes
+30.0,Male,No,No,Yes,Yes,Yes,No,Yes,No,No
+25.0,Female,No,Yes,No,Yes,Yes,Yes,No,No,Yes
+36.0,Male,No,No,Yes,Yes,Yes,Yes,Don't know,No,Yes
+48.0,Male,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+48.0,Male,No,No,No,Yes,No,No,No,Yes,Yes
+53.0,Male,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes
+24.0,Female,No,Yes,Yes,Yes,No,No,No,No,Yes
+33.0,Male,No,Yes,No,Yes,Don't know,Yes,Yes,No,Yes
+25.0,Female,No,Yes,No,Yes,Yes,Yes,No,No,Yes
+30.0,Male,No,No,No,Yes,No,No,No,No,Yes
+30.0,Male,Yes,No,Yes,Yes,No,Yes,No,No,No
+34.0,Male,Yes,No,Yes,Yes,No,No,No,No,Yes
+31.0,Male,No,No,Yes,Yes,Yes,Yes,Yes,No,No
+22.0,Female,No,Yes,No,Yes,Don't know,Not sure,Don't know,No,Yes
+28.0,Male,No,Yes,No,Yes,Don't know,Not sure,Don't know,No,No
+35.0,Male,No,Yes,No,No,Yes,Yes,Yes,No,Yes
+28.0,Male,No,Yes,No,No,Yes,No,No,No,Yes
+42.0,Male,No,No,No,No,No,Yes,No,Yes,Yes
+33.0,Male,No,Yes,No,Yes,Yes,No,Don't know,No,No
+29.0,Male,No,No,No,Yes,Yes,No,No,No,No
+43.0,Male,No,Yes,No,No,Yes,Not sure,Don't know,No,No
+29.0,Male,No,No,No,Yes,Yes,Yes,Yes,No,No
+25.0,Male,No,No,Yes,Yes,Yes,No,No,No,No
+31.0,Male,No,Yes,No,Yes,Don't know,No,Don't know,No,No
+35.0,Female,No,Yes,No,No,Yes,Not sure,Yes,No,Yes
+34.0,Male,No,No,No,Yes,Don't know,No,Yes,No,No
+43.0,Male,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+38.0,Male,No,Yes,No,Yes,No,Not sure,No,No,Yes
+26.0,Male,No,Yes,No,Yes,Don't know,Not sure,Yes,Yes,Yes
+38.0,Male,Yes,Yes,Yes,No,No,No,No,No,Yes
+42.0,Male,No,No,No,Yes,Don't know,No,Don't know,No,Yes
+33.0,Male,No,Yes,No,Yes,Don't know,No,Don't know,Yes,Yes
+32.0,Male,No,No,No,Yes,Yes,Yes,Yes,No,Yes
+44.0,Male,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+28.0,Male,No,Yes,No,Yes,Yes,Yes,Don't know,No,Yes
+40.0,Male,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+31.0,Female,No,Yes,No,Yes,Yes,Yes,Don't know,No,Yes
+32.0,Male,No,Yes,No,Yes,Yes,Yes,Yes,No,No
+28.0,Male,No,Yes,No,Yes,Don't know,No,Don't know,No,Yes
+39.0,Male,No,Yes,No,Yes,Yes,Yes,No,No,Yes
+45.0,Male,No,No,No,No,Yes,Yes,Yes,No,No
+43.0,Male,No,No,No,Yes,Yes,Yes,Yes,No,Yes
+35.0,Male,No,No,No,Yes,Yes,Yes,Yes,No,Yes
+40.0,Male,No,Yes,No,Yes,Yes,Yes,Don't know,No,Yes
+34.0,Male,No,No,No,Yes,No,Yes,No,No,Yes
+24.0,Male,No,Yes,No,No,Don't know,Yes,No,Yes,Yes
+61.0,Male,Yes,No,Yes,Yes,No,No,No,Yes,Yes
+36.0,Female,No,Yes,No,Yes,Don't know,No,Don't know,No,Yes
+38.0,Male,No,No,No,Yes,No,No,No,No,No
+33.0,Male,No,Yes,No,Yes,Don't know,Not sure,No,No,Yes
+30.0,Male,No,Yes,No,No,Don't know,No,Don't know,No,No
+34.0,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+26.0,Male,No,No,No,Yes,Yes,Not sure,Don't know,No,Yes
+33.0,Male,No,No,No,Yes,Don't know,Not sure,Don't know,No,No
+32.0,Male,No,No,No,Yes,Don't know,No,No,No,No
+25.0,Male,Yes,No,Yes,Yes,No,Yes,No,No,No
+35.0,Male,Yes,No,Yes,No,Don't know,No,No,No,Yes
+24.0,Male,Yes,Yes,Yes,Yes,Don't know,Not sure,No,No,No
+55.0,Male,No,No,No,No,Yes,Yes,Yes,Yes,Yes
+33.0,Male,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes
+26.0,Female,Yes,Yes,Yes,Yes,No,No,No,No,Yes
+25.0,Male,No,No,Yes,Yes,Don't know,Not sure,Don't know,No,No
+45.0,Male,No,Yes,No,No,Don't know,No,No,No,No
+33.0,Female,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes
+43.0,Male,No,No,Yes,Yes,No,Not sure,No,Yes,No
+30.0,Male,Yes,No,No,Yes,No,Yes,No,Yes,Yes
+40.0,Male,No,Yes,No,Yes,Don't know,Not sure,Don't know,No,Yes
+49.0,Male,No,Yes,No,Yes,Yes,Yes,Yes,No,No
+29.0,Male,No,No,No,Yes,Don't know,Not sure,No,No,No
+26.0,Male,No,No,No,Yes,Don't know,No,Don't know,No,No
+38.0,Male,No,No,No,Yes,Yes,Yes,Yes,Yes,No
+27.0,Male,No,Yes,No,No,Yes,Yes,No,Yes,No
+26.0,Male,No,No,No,Yes,Yes,No,No,No,No
+28.0,Male,No,Yes,No,Yes,No,No,No,No,Yes
+40.0,Male,No,Yes,Yes,Yes,No,No,No,No,Yes
+37.0,Female,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes
+34.0,Female,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes
+28.0,Male,No,Yes,No,Yes,Don't know,Not sure,Don't know,No,Yes
+27.0,Male,No,No,No,Yes,Yes,Not sure,No,No,No
+29.0,Male,No,No,Yes,Yes,No,No,No,No,Yes
+39.0,Female,No,Yes,Yes,Yes,Don't know,Not sure,No,Yes,No
+28.0,Male,No,No,No,Yes,No,No,No,No,No
+23.0,Male,No,Yes,No,Yes,Yes,Not sure,Yes,No,No
+8.0,Other,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+38.0,Male,No,No,Yes,Yes,No,No,No,No,No
+19.0,Male,No,No,No,Yes,Yes,No,Yes,No,No
+30.0,Female,No,Yes,No,Yes,Yes,Yes,Don't know,No,Yes
+28.0,Male,Yes,No,Yes,Yes,No,Yes,No,No,No
+20.0,Male,No,No,No,Yes,Don't know,No,No,No,Yes
+35.0,Male,Yes,No,No,Yes,Don't know,Not sure,Don't know,No,No
+39.0,Male,No,No,Yes,Yes,Yes,Yes,No,No,Yes
+31.0,Female,No,Yes,No,No,Yes,Not sure,Don't know,No,No
+32.0,Male,No,No,No,Yes,No,No,No,No,No
+27.0,Male,No,No,No,Yes,No,No,No,No,No
+25.0,Male,No,Yes,Yes,Yes,Yes,Yes,Don't know,No,Yes
+42.0,Male,No,Yes,Yes,Yes,Don't know,No,Don't know,No,Yes
+34.0,Male,No,Yes,No,Yes,Yes,Yes,No,No,Yes
+26.0,Female,No,No,Yes,Yes,Don't know,No,Don't know,Yes,Yes
+35.0,Male,No,Yes,No,Yes,No,Yes,No,Yes,Yes
+34.0,Male,No,No,No,Yes,Don't know,No,Don't know,No,No
+38.0,Male,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes
+34.0,Male,No,No,No,Yes,Don't know,No,No,No,No
+39.0,Male,No,Yes,Yes,Yes,No,Yes,No,No,Yes
+44.0,Female,No,No,No,Yes,Don't know,Not sure,No,No,No
+40.0,Male,No,No,No,No,Yes,Yes,Yes,No,No
+33.0,Female,Yes,No,Yes,Yes,No,Yes,Don't know,No,No
+24.0,Female,No,Yes,No,No,Yes,Yes,Don't know,Yes,No
+38.0,Female,No,Yes,Yes,Yes,Don't know,Not sure,Don't know,No,No
+31.0,Male,No,No,No,Yes,Yes,Not sure,Yes,No,No
+23.0,Male,No,No,No,Yes,Don't know,Not sure,No,No,No
+26.0,Female,No,No,No,Yes,Don't know,Not sure,No,No,No
+46.0,Female,No,No,No,No,Yes,Yes,Yes,Yes,Yes
+30.0,Male,No,Yes,Yes,Yes,Yes,No,No,No,Yes
+25.0,Male,No,No,Yes,Yes,Don't know,No,No,Yes,No
+19.0,Male,No,No,Yes,Yes,Don't know,No,No,No,No
+30.0,Female,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes
+32.0,Male,No,No,No,Yes,Yes,Yes,Yes,No,No
+32.0,Male,No,No,No,Yes,No,No,No,No,No
+37.0,Male,No,Yes,Yes,Yes,Don't know,No,No,No,No
+42.0,Male,No,Yes,Yes,Yes,Don't know,No,Don't know,No,Yes
+25.0,Female,No,No,No,Yes,Yes,Yes,Yes,No,No
+19.0,Male,No,No,No,Yes,Don't know,Not sure,No,No,No
+40.0,Female,No,Yes,Yes,Yes,Yes,Yes,No,No,No
+34.0,Male,No,No,No,No,Yes,Not sure,Don't know,No,No
+26.0,Male,No,Yes,No,Yes,Don't know,Not sure,No,No,No
+31.0,Male,No,Yes,No,Yes,Don't know,Not sure,Don't know,No,Yes
+40.0,Male,No,Yes,Yes,No,Yes,Not sure,Don't know,No,No
+31.0,Female,No,Yes,No,Yes,No,No,No,Yes,Yes
+36.0,Male,No,No,No,No,Don't know,No,Don't know,Yes,No
+35.0,Male,No,Yes,Yes,Yes,No,Yes,No,No,No
+26.0,Male,No,Yes,Yes,Yes,No,No,No,No,Yes
+44.0,Male,No,No,Yes,No,Don't know,No,Don't know,No,No
+34.0,Female,No,No,No,Yes,No,Not sure,No,No,No
+35.0,Male,No,No,Yes,Yes,No,No,No,No,No
+28.0,Female,No,Yes,Yes,Yes,Don't know,No,No,No,Yes
+33.0,Male,No,No,Yes,Yes,Yes,No,Yes,No,No
+40.0,Male,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+26.0,Male,No,No,No,Yes,Yes,Yes,No,No,Yes
+29.0,Female,No,No,No,No,Yes,Yes,No,Yes,Yes
+26.0,Female,No,Yes,No,Yes,Yes,Not sure,No,No,Yes
+33.0,Male,No,Yes,No,Yes,No,Not sure,No,No,Yes
+28.0,Male,No,Yes,No,Yes,No,No,No,Yes,No
+41.0,Male,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes
+39.0,Male,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes
+26.0,Female,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes
+23.0,Female,No,Yes,No,No,No,No,No,No,No
+35.0,Male,No,Yes,No,Yes,Don't know,Not sure,No,No,Yes
+36.0,Male,No,No,Yes,Yes,Don't know,Not sure,Don't know,No,No
+42.0,Male,No,No,No,No,Don't know,No,Don't know,No,No
+39.0,Male,No,Yes,No,Yes,Yes,Yes,Don't know,No,Yes
+27.0,Male,No,No,No,Yes,Don't know,No,Don't know,No,No
+33.0,Male,Yes,No,Yes,Yes,Don't know,No,No,No,No
+31.0,Male,No,Yes,No,Yes,Yes,Not sure,Don't know,No,Yes
+28.0,Female,No,No,No,Yes,Yes,Yes,Yes,No,Yes
+29.0,Female,No,No,Yes,No,Yes,No,No,No,Yes
+27.0,Male,No,No,No,Yes,Don't know,Not sure,No,No,Yes
+44.0,Male,Yes,No,Yes,Yes,Don't know,No,No,No,No
+25.0,Male,No,No,Yes,Yes,Don't know,No,No,No,Yes
+24.0,Male,No,Yes,No,Yes,No,No,No,No,Yes
+25.0,Male,No,Yes,No,No,Don't know,No,No,Yes,Yes
+34.0,Male,No,No,Yes,Yes,Yes,Not sure,Don't know,No,No
+26.0,Male,No,No,No,No,Yes,Yes,Don't know,No,No
+48.0,Male,No,No,No,No,Yes,Yes,Yes,No,No
+34.0,Male,No,No,Yes,Yes,No,No,No,No,No
+39.0,Female,No,No,Yes,Yes,No,No,No,No,Yes
+43.0,Male,No,No,Yes,Yes,Yes,Not sure,Yes,No,No
+41.0,Male,No,No,No,Yes,Yes,Yes,Yes,Yes,No
+25.0,Male,No,No,No,No,Don't know,No,No,No,No
+31.0,Male,No,No,No,Yes,Yes,Yes,No,No,Yes
+40.0,Male,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes
+43.0,Male,Yes,Yes,Yes,Yes,Yes,Not sure,Don't know,No,Yes
+27.0,Female,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes
+37.0,Female,No,Yes,Yes,Yes,Yes,Yes,Don't know,No,Yes
+32.0,Male,Yes,No,No,Yes,No,No,No,No,Yes
+25.0,Male,No,Yes,No,Yes,No,Yes,No,No,Yes
+29.0,Male,No,Yes,No,Yes,Don't know,Not sure,Yes,No,Yes
+30.0,Female,No,Yes,No,No,Yes,No,No,No,Yes
+34.0,Female,No,Yes,No,No,Don't know,No,Don't know,No,Yes
+32.0,Male,No,Yes,No,No,Yes,Yes,Yes,No,Yes
+37.0,Male,No,No,No,Yes,Don't know,No,No,No,No
+41.0,Male,No,No,No,Yes,Don't know,No,No,No,Yes
+38.0,Male,No,Yes,No,No,Yes,Not sure,Yes,No,No
+32.0,Male,No,No,No,Yes,Yes,Yes,Don't know,No,Yes
+28.0,Female,No,Yes,No,Yes,Yes,Yes,Don't know,No,Yes
+11.0,Male,Yes,No,Yes,Yes,No,Yes,No,No,No
+43.0,Male,No,Yes,No,No,Yes,Yes,Don't know,No,No
+32.0,Male,No,Yes,No,Yes,No,Yes,No,No,Yes
+25.0,Male,No,No,No,Yes,Yes,Yes,Don't know,No,Yes
+37.0,Male,No,No,No,Yes,Yes,No,Yes,No,Yes
+36.0,Male,Yes,No,No,No,No,Yes,No,Yes,Yes
+24.0,Male,No,Yes,Yes,Yes,Don't know,No,No,No,Yes
+40.0,Male,No,Yes,No,Yes,Yes,Not sure,Don't know,Yes,Yes
+29.0,Male,No,No,No,No,Don't know,Not sure,Don't know,No,No
+43.0,Male,No,No,No,Yes,Don't know,No,Don't know,No,No
+29.0,Male,No,No,Yes,Yes,Yes,Not sure,Yes,No,No
+26.0,Male,No,Yes,No,Yes,Don't know,Not sure,No,No,No
+33.0,Female,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes
+35.0,Female,No,Yes,Yes,Yes,Don't know,No,No,No,No
+45.0,Male,No,No,Yes,Yes,Yes,No,No,No,No
+25.0,Male,No,No,Yes,Yes,No,Yes,Don't know,No,Yes
+50.0,Male,Yes,No,Yes,Yes,No,No,No,No,Yes
+26.0,Male,No,Yes,No,Yes,No,No,Don't know,No,Yes
+33.0,Female,No,No,No,Yes,Yes,Yes,Don't know,No,Yes
+30.0,Male,No,No,No,Yes,No,No,No,No,No
+33.0,Male,No,Yes,Yes,Yes,Yes,Yes,Don't know,No,Yes
+29.0,Male,No,No,No,Yes,Yes,No,No,No,Yes
+37.0,Male,No,No,Yes,Yes,No,Not sure,No,No,No
+25.0,Male,No,Yes,Yes,Yes,Don't know,No,Don't know,No,Yes
+40.0,Male,No,No,No,No,Yes,Not sure,Don't know,No,No
+24.0,Male,No,No,No,Yes,Yes,Yes,No,Yes,No
+40.0,Male,No,No,No,Yes,Don't know,Not sure,Don't know,No,Yes
+46.0,Male,No,Yes,No,Yes,Don't know,Yes,Don't know,No,Yes
+38.0,Male,No,Yes,No,No,Yes,Yes,Yes,No,Yes
+34.0,Male,No,No,Yes,Yes,No,Yes,No,No,No
+32.0,Male,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes
+44.0,Male,No,No,No,No,No,No,Yes,No,Yes
+33.0,Female,No,No,No,Yes,Don't know,Not sure,Don't know,No,Yes
+45.0,Female,No,No,No,No,Don't know,No,Don't know,No,Yes
+35.0,Male,No,No,No,Yes,Don't know,Not sure,Don't know,No,No
+26.0,Male,Yes,Yes,No,Yes,No,No,No,Yes,Yes
+20.0,Female,No,No,Yes,Yes,Don't know,Not sure,Don't know,No,Yes
+,Other,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+37.0,Male,No,Yes,No,Yes,No,No,No,No,No
+28.0,Male,No,No,No,No,Yes,No,No,No,No
+42.0,Female,No,Yes,No,No,Yes,Yes,No,No,Yes
+32.0,Male,No,No,No,Yes,No,No,No,Yes,No
+36.0,Female,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+27.0,Male,No,No,No,Yes,No,Yes,Yes,Yes,No
+27.0,Male,No,No,No,Yes,No,Yes,Yes,Yes,No
+27.0,Male,No,No,No,No,No,No,No,No,Yes
+25.0,Male,No,Yes,Yes,Yes,No,No,No,No,Yes
+41.0,Male,No,Yes,No,Yes,No,No,No,No,No
+23.0,Male,No,Yes,No,Yes,Don't know,Not sure,No,No,Yes
+21.0,Male,No,No,No,No,Don't know,No,Don't know,No,Yes
+26.0,Male,No,No,No,Yes,No,Yes,No,No,Yes
+29.0,Male,No,No,No,Yes,Don't know,Not sure,Don't know,Yes,No
+28.0,Male,No,No,No,No,No,No,No,Yes,No
+27.0,Female,No,Yes,No,No,No,Yes,No,No,No
+23.0,Male,No,No,No,No,No,Yes,Yes,No,No
+26.0,Female,No,Yes,Yes,Yes,Don't know,No,No,No,No
+38.0,Male,No,Yes,No,Yes,No,Not sure,Don't know,No,Yes
+39.0,Male,No,Yes,No,No,No,No,No,No,Yes
+35.0,Male,No,Yes,No,No,Yes,Yes,Yes,No,Yes
+32.0,Male,No,No,No,Yes,Yes,Not sure,Don't know,No,No
+32.0,Male,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+26.0,Male,No,No,No,Yes,No,No,No,No,No
+38.0,Male,No,Yes,No,Yes,Don't know,Not sure,Don't know,No,Yes
+34.0,Female,No,Yes,No,No,Yes,Yes,Yes,No,No
+39.0,Male,No,Yes,No,No,Don't know,Not sure,No,No,Yes
+32.0,Male,Yes,No,Yes,Yes,Don't know,Not sure,No,No,No
+37.0,Male,Yes,No,Yes,Yes,Don't know,Not sure,Don't know,No,No
+31.0,Male,No,Yes,No,Yes,Don't know,Not sure,Don't know,No,Yes
+30.0,Male,No,Yes,No,Yes,No,Yes,No,No,Yes
+51.0,Male,No,No,Yes,Yes,Don't know,No,Don't know,No,No
+29.0,Male,No,No,No,Yes,Yes,Yes,No,No,Yes
+31.0,Male,No,No,No,Yes,Yes,No,Yes,No,No
+31.0,Male,No,No,No,Yes,Don't know,Not sure,No,No,No
+26.0,Male,No,Yes,Yes,Yes,Don't know,No,Don't know,No,Yes
+46.0,Female,No,No,Yes,No,Yes,Yes,No,No,Yes
+32.0,Male,No,Yes,No,Yes,Yes,No,Don't know,No,No
+29.0,Male,No,Yes,No,No,Yes,Yes,Yes,No,Yes
+34.0,Male,No,No,Yes,Yes,Don't know,Not sure,No,No,No
+26.0,Male,No,No,No,Yes,No,No,No,No,No
+32.0,Female,No,No,No,Yes,Yes,Yes,Don't know,No,Yes
+29.0,Male,No,No,No,Yes,Don't know,Not sure,No,No,No
+30.0,Male,No,No,No,No,Yes,No,Yes,No,No
+40.0,Female,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes
+23.0,Male,No,No,No,Yes,No,No,No,Yes,Yes
+20.0,Male,No,No,No,No,No,No,No,No,No
+38.0,Male,No,Yes,No,Yes,Don't know,No,No,Yes,No
+26.0,Female,No,Yes,No,Yes,Yes,No,No,No,Yes
+29.0,Male,No,No,No,Yes,No,No,Don't know,Yes,No
+40.0,Male,Yes,No,Yes,Yes,No,Yes,No,No,No
+25.0,Female,No,No,Yes,Yes,No,No,No,No,Yes
+32.0,Female,No,No,No,Yes,Yes,Yes,No,No,Yes
+38.0,Male,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes
+72.0,Female,No,Yes,Yes,No,Yes,Not sure,Yes,Yes,Yes
+35.0,Female,No,Yes,Yes,Yes,No,No,No,No,Yes
+28.0,Female,No,No,No,Yes,No,Yes,No,No,Yes
+27.0,Female,No,No,No,No,Don't know,Not sure,Don't know,No,No
+56.0,Female,Yes,No,Yes,Yes,Don't know,Not sure,Don't know,No,No
+38.0,Male,No,Yes,Yes,Yes,Yes,No,No,No,Yes
+31.0,Female,No,No,No,Yes,Don't know,Not sure,No,No,No
+40.0,Male,No,Yes,No,Yes,Yes,Yes,No,No,Yes
+44.0,Male,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes
+34.0,Male,No,Yes,No,Yes,Yes,Not sure,Yes,No,No
+37.0,Male,No,No,Yes,Yes,Don't know,No,No,No,No
+38.0,Male,No,No,No,Yes,Don't know,Not sure,Don't know,No,No
+27.0,Male,No,No,No,Yes,Don't know,Not sure,No,No,No
+34.0,Female,No,No,No,No,Yes,Yes,No,No,Yes
+35.0,Female,No,No,No,Yes,Don't know,No,No,No,No
+34.0,Male,No,No,No,Yes,No,No,No,No,Yes
+32.0,Male,No,No,Yes,Yes,Yes,Not sure,Don't know,No,Yes
+25.0,Male,No,No,No,Yes,Don't know,Not sure,Don't know,No,No
+28.0,Male,No,No,Yes,Yes,No,Yes,No,No,Yes
+28.0,Female,No,No,No,Yes,Yes,No,No,Yes,Yes
+31.0,Male,Yes,No,No,Yes,No,Yes,No,No,Yes
+24.0,Male,No,No,No,Yes,Don't know,Not sure,No,No,No
+34.0,Male,No,Yes,Yes,Yes,No,No,No,No,Yes
+32.0,Male,No,No,No,Yes,No,No,No,No,Yes
+34.0,Male,No,Yes,Yes,No,Don't know,Not sure,No,No,No
+23.0,Male,No,No,No,Yes,No,Yes,No,No,Yes
+33.0,Male,No,Yes,No,Yes,No,Yes,No,Yes,No
+29.0,Male,No,Yes,No,Yes,Don't know,Not sure,No,No,Yes
+24.0,Male,No,Yes,No,Yes,No,No,No,No,No
+45.0,Male,No,No,Yes,Yes,Don't know,Not sure,No,Yes,No
+34.0,Female,No,No,No,No,No,Yes,Yes,Yes,Yes
+31.0,Male,No,No,No,Yes,Don't know,No,No,Yes,No
+33.0,Male,No,No,Yes,Yes,Yes,Yes,No,No,Yes
+28.0,Male,No,No,No,Yes,No,Not sure,No,No,No
+27.0,Male,No,No,Yes,No,Don't know,Not sure,Yes,No,No
+42.0,Male,No,No,No,Yes,No,Yes,No,No,No
+28.0,Male,No,No,No,Yes,No,Not sure,No,No,No
+38.0,Male,No,No,Yes,Yes,Yes,No,Yes,No,Yes
+46.0,Male,No,Yes,No,Yes,Don't know,No,No,No,Yes
+46.0,Male,No,Yes,Yes,Yes,Don't know,Not sure,Don't know,No,Yes
+41.0,Female,Yes,No,Yes,Yes,Don't know,Yes,Yes,No,Yes
+23.0,Male,No,No,No,Yes,Don't know,No,No,Yes,No
+24.0,Male,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes
+23.0,Female,No,No,No,Yes,No,Yes,No,No,Yes
+39.0,Male,No,No,No,No,Yes,Not sure,Don't know,No,No
+32.0,Female,No,Yes,No,Yes,Yes,Yes,Yes,No,No
+25.0,Male,No,Yes,No,Yes,Don't know,Yes,No,No,Yes
+39.0,Male,No,No,Yes,Yes,No,No,No,No,No
+23.0,Female,No,Yes,No,Yes,No,Yes,Yes,No,Yes
+24.0,Male,Yes,No,Yes,Yes,No,No,No,Yes,Yes
+25.0,Male,No,Yes,No,No,Yes,Yes,Yes,No,Yes
+23.0,Male,No,No,No,Yes,No,Yes,No,No,Yes
+24.0,Male,No,No,No,No,Don't know,No,Don't know,No,Yes
+23.0,Male,No,No,No,Yes,Yes,Yes,Don't know,No,Yes
+60.0,Male,No,No,Yes,Yes,Don't know,No,Don't know,No,Yes
+28.0,Male,No,No,No,Yes,No,Yes,No,Yes,No
+28.0,Male,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes
+30.0,Male,No,No,No,Yes,Don't know,No,No,No,No
+31.0,Male,No,Yes,No,Yes,Don't know,No,No,No,Yes
+31.0,Male,Yes,No,Yes,Yes,No,No,No,No,Yes
+28.0,Male,No,No,No,Yes,Don't know,No,Don't know,No,Yes
+43.0,Female,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+32.0,Female,No,No,No,No,No,No,Don't know,No,No
+22.0,Male,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes
+32.0,Male,No,No,No,Yes,Yes,Not sure,Yes,No,No
+36.0,Male,No,No,No,Yes,No,No,No,Yes,Yes
+41.0,Female,No,Yes,No,Yes,Yes,No,Don't know,No,Yes
+30.0,Male,No,Yes,No,Yes,Yes,Yes,No,No,Yes
+30.0,Male,Yes,Yes,No,Yes,Yes,Not sure,Yes,No,Yes
+36.0,Male,No,Yes,No,No,No,Yes,No,No,Yes
+29.0,Male,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+36.0,Male,No,Yes,No,No,Don't know,No,Yes,No,No
+26.0,Male,No,No,No,Yes,No,No,No,No,Yes
+32.0,Male,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+34.0,Male,No,Yes,No,Yes,Yes,Yes,No,No,Yes
+46.0,Female,No,No,Yes,Yes,No,Yes,No,No,No
+25.0,Male,No,Yes,No,No,Yes,Yes,No,No,Yes
